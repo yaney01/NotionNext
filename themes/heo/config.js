@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.yaney.eu.org/' },
+    { title: '欢迎来到我的博客', url: 'https://blog.yaney.eu.org' },
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,12 +19,12 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '欢迎加入我的电报群',
   HEO_HERO_TITLE_4: '每日更新节点',
   HEO_HERO_TITLE_5: 'Yaney Little Courtyard',
-  HEO_HERO_TITLE_LINK: 'https://t.me/yaney_01',
+  HEO_HERO_TITLE_LINK: 'https://t.me/yaney_01',,
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选'， url: '/tag/必看精选' }，
-  HEO_HERO_CATEGORY_2: { title: '热门文章'， url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程'， url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
+  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -107,7 +107,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/+caB8IkK7JvMzM2I1',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
